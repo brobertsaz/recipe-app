@@ -38,8 +38,8 @@
     "@angular/platform-server": "~7.2.0",
     "@angular/http": "~7.2.0",
     "@nguniversal/module-map-ngfactory-loader": "~7.0.0",
-    "webpack-cli": "^3.1.2",
-    "ts-loader": "4.2.0",
+    "webpack-cli": "^5.0.1",
+    "ts-loader": "9.4.2",
     "@nguniversal/express-engine": "~7.0.0",
     "@nguniversal/common": "~7.0.0",
     "cors": "~2.8.4",
@@ -47,7 +47,7 @@
     "aws-serverless-express": "^3.2.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.13.0",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "~7.3.2",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
@@ -66,8 +66,8 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2",
-    "ts-loader": "4.2.0",
-    "webpack-cli": "2.1.2",
+    "ts-loader": "9.4.2",
+    "webpack-cli": "5.0.1",
     "opencollective": "^1.0.3",
     "serverless": "1.26.1",
     "serverless-apigw-binary": "^0.4.4"
